@@ -1,19 +1,7 @@
-Heart :heart:
-thumbs up :+1:
+*Italics1*
+_Italics2_
 
-1. one
-2. two
-3. three
-    1. roman I
-    2. roman II
-    3. roman III
+**bold1**
+**bold2**
 
-
-*item
-*item
-*item
-    * sub item
-    * sub item
-    * sub item
-
-    
+*c**o**mbi**ned**!*
